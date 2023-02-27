@@ -1,9 +1,9 @@
 # React-native + image_picker V.5.1.0
 ### Take photo and use camera roll with [react-native-image-picker](https://www.npmjs.com/package/react-native-image-picker)
 
-<p align="center">
-  <img width="300"src="https://github.com/NattawutTanthai/image_picker_simple/android_rec.mov">
-</p>
+
+https://user-images.githubusercontent.com/90416683/221649290-42cbf98d-da45-4ddf-a59b-a75735d05cd0.mov
+
 
 ## How to use ?
 ```shell
